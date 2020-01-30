@@ -1,2 +1,2 @@
-# gllacy.github.io
+# https://olyamosunova.github.io/gllacy.github.io/
 Верстка Gllacy
